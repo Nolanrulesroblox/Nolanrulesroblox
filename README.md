@@ -1,16 +1,16 @@
 ### Hi there 👋, Hello I am Nolan.
 #### I am a PHP/Javascript Programmer.
 ![I am a PHP/Javascript Programmer.](https://nrrinc.net/src/css/master/shared/img5.png)
-
+---
 Current Projects: Simple Drawler, nrrinc.net and SBU *simplebutuseful.org*
 
-Simple Drawler, a Simple Whiteboard, For everyone, you cant Screw it up. Just draw save and erease. Perfect for old people.
+ - Simple Drawler, a Simple Whiteboard, For everyone, you cant Screw it up. Just draw save and erease. Perfect for old people.
 
-NRRINC.net, Remakng Full Site CSS (Instead of 3 files, just one)
+- NRRINC.net, Remakng Full Site CSS (Instead of 3 files, just one)
 
-SBU: Remaking Full Project (Needs web hosting, I cant afford it)
+- SBU: Remaking Full Project (Needs web hosting, I cant afford it)
 
-
+---
 Skills: PHP / NODE / JS / HTML / CSS / C / FLUTTER
 
 - 🔭 I’m currently working on nrrinc.net Full time 
