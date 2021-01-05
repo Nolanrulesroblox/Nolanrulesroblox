@@ -2,7 +2,14 @@
 #### I am a PHP/Javascript Programmer.
 ![I am a PHP/Javascript Programmer.](https://nrrinc.net/src/css/master/shared/img5.png)
 
-I make Websites, PWAs, Electron Apps and have worked with Many Open Source Projects. I am Also a Huge Hardware Person. (Still rocking Dell R710's)
+Current Projects: Simple Drawler, nrrinc.net and SBU *simplebutuseful.org*
+
+Simple Drawler, a Simple Whiteboard, For everyone, you cant Screw it up. Just draw save and erease. Perfect for old people.
+
+NRRINC.net, Remakng Full Site CSS (Instead of 3 files, just one)
+
+SBU: Remaking Full Project (Needs web hosting, I cant afford it)
+
 
 Skills: PHP / NODE / JS / HTML / CSS / C / FLUTTER
 
