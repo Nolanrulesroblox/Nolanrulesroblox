@@ -23,7 +23,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/Nolanrulesroblox">
 <img align="center" alt="Nolanrulesroblox's Github Stats" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Nolanrulesroblox&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/Nolanrulesroblox">
-  <img align="center" alt="Nolanrulesroblox's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolanrulesroblox&layout=compact&theme=radical" />
+  <img align="center" alt="Nolanrulesroblox's top languages" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Nolanrulesroblox&layout=compact&theme=radical" />
 </a>
 
 ![Profile views](https://gpvc.arturio.dev/Nolanrulesroblox)  
