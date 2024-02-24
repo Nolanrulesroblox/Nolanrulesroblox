@@ -24,6 +24,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nolanrulesroblox&show_icons=true&locale=en&layout=compact" alt="nolanrulesroblox" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nolanrulesroblox&show_icons=true&locale=en" alt="nolanrulesroblox" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nolanrulesroblox&" alt="nolanrulesroblox" /></p>
