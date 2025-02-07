@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nolanrulesroblox&label=Profile%20views&color=0e75b6&style=flat" alt="nolanrulesroblox" /> </p>
 
 
-- 🔭 I’m currently working on ***Private company***
+- 🔭 I’m currently working at a ***Private company***
 
 - 🌱 I’m currently learning **C++**
 
