@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nolanrulesroblox&label=Profile%20views&color=0e75b6&style=flat" alt="nolanrulesroblox" /> </p>
 
 
-- 🔭 I’m currently working on [Sally AI](http://sally-ai.com/)
+- 🔭 I’m currently working on ***Private company***
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://git.nrrinc.net/](https://git.nrrinc.net/)
 
-- 💬 Ask me about **Python, Javascript, PHP**
+- 💬 Ask me about **Python, Javascript, PHP, Golang**
 
 - 📫 How to reach me **contact@nrrinc.net**
 
