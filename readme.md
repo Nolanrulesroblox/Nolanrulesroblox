@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nolan</h1>
 <h3 align="center">A passionate full stack developer from the US</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nolanrulesroblox&label=Profile%20views&color=0e75b6&style=flat" alt="nolanrulesroblox" /> </p>
-
-
 - 🔭 I’m currently looking for new work
 
 - 🌱 I’m currently learning **C++**
